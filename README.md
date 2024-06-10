@@ -17,8 +17,8 @@ This project is a C++ program that creates a sandbox environment with a specifie
 
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/DailyNoBug/sandboxcpp.git
+    cd sandboxcpp
     ```
 
 2. Compile the program:
